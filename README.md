@@ -8,7 +8,7 @@
 
 **클론한 사이트 : https://kream.co.kr**
 
-**배포 사이트 : https://banghogu.github.io/kream-clone-coding-project/**
+**배포 사이트 : https://kream-clone-coding-with-html-css.vercel.app**
 
 
 **참고**
